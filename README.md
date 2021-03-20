@@ -6,7 +6,8 @@
 
 ><h2 align="center"> 🐂About Me🐂</h2>
 <p align="center">
-  <a href="https://rssungjae1.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Undertale&logoColor=white&link=rssungjae1@gmail.com"/></a>&nbsp
+  <a href="https://rssungjae1.github.io/"><img src="https://img.shields.io/badge/Portfolio_KR-000000?style=flat-square&logo=Undertale&logoColor=white&link=https://rssungjae1.github.io/"/></a>&nbsp
+  <a href="https://rssungjae1.github.io/rssungjae1-jp/"><img src="https://img.shields.io/badge/Portfolio_JP-000000?style=flat-square&logo=Undertale&logoColor=white&link=https://rssungjae1.github.io/rssungjae1-jp/"/></a>&nbsp
   <a href="mailto:rssungjae1@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=rssungjae1@gmail.com"/></a>&nbsp
   <a href="https://velog.io/@rssungjae"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@rssungjae"/></a>&nbsp
 </p>
